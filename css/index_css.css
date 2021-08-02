@@ -330,10 +330,6 @@ body{
       align-items: center;
     }
 
-    .companyname{
-        font-size: 0;
-    }
-
     .header, .content1{
         padding: 10px;
         align-items: center;
@@ -374,6 +370,7 @@ body{
 
     .companyname{
         margin-right: 0;
+        font-size: 0;
     }
 
 }
